@@ -32,7 +32,7 @@
 	{
         "_common": 
 		{
-            "name": "Transformation using Java in a message flow",
+            "name": "Transformation using Java (JAXB) in a message flow",
             "shortDescription": "Learn how to use a JavaCompute node to transform data using Java (JAXB) in an IBM Integration Bus message flow by exploring this simple example.",
             "durationText": "This tutorial takes approximately",
             "durationTime": "5 minutes",
