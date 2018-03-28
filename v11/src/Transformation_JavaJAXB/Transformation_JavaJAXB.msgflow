@@ -9,7 +9,7 @@
       <nodes xmi:type="ComIbmJavaCompute.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_3" location="118,27" javaClass="jaxb">
         <translation xmi:type="utility:ConstantString" string="JAXB Compute"/>
       </nodes>
-      <nodes xmi:type="ComIbmWSInput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_5" location="30,31" URLSpecifier="/" messageDomainProperty="XMLNSC">
+      <nodes xmi:type="ComIbmWSInput.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_5" location="30,31" URLSpecifier="/Transformation_JavaJAXB" messageDomainProperty="XMLNSC">
         <translation xmi:type="utility:ConstantString" string="HTTP Input"/>
       </nodes>
       <nodes xmi:type="ComIbmWSReply.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_1" location="237,27">
